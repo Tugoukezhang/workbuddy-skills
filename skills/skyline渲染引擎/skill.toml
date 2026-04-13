@@ -1,0 +1,13 @@
+name = "Skyline渲染引擎"
+version = "1.0.0"
+description = "Skyline渲染引擎技能，提供相关功能和服务。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

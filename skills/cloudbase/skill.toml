@@ -1,0 +1,13 @@
+name = "CloudBase开发指南"
+version = "1.0.0"
+description = "CloudBase是一个全栈开发和部署工具包，用于构建和启动网站、Web应用、微信小程序和移动应用。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

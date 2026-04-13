@@ -1,0 +1,13 @@
+name = "Agent Memory"
+version = "1.0.0"
+description = "AI代理记忆系统，提供知识管理和上下文检索功能。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

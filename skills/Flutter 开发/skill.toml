@@ -1,0 +1,13 @@
+name = "Flutter开发"
+version = "1.0.0"
+description = "Flutter跨平台开发指南，涵盖widget模式、Riverpod/Bloc状态管理、GoRouter导航、性能优化和平台特定实现。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

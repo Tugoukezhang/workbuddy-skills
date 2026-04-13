@@ -1,0 +1,13 @@
+name = "Data Analysis"
+version = "1.0.0"
+description = "数据分析和可视化。查询数据库、生成报告、自动化电子表格，并将原始数据转化为清晰、可操作的见解。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

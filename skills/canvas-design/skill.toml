@@ -1,0 +1,13 @@
+name = "Canvas Design"
+version = "1.0.0"
+description = "使用设计理念在.png和.pdf文档中创建美丽的视觉艺术。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

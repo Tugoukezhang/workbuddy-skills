@@ -1,0 +1,13 @@
+name = "Multi Search Engine"
+version = "1.0.0"
+description = "多搜索引擎集成，支持17个引擎。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

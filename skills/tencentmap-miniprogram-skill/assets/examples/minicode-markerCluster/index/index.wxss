@@ -1,0 +1,16 @@
+.map {
+  width: 100%;
+  height: 300px;
+}
+
+.btn-area {
+  margin: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #ccc;
+}
+
+button {
+  display: inline-block;
+  margin: 10px 5px;
+}

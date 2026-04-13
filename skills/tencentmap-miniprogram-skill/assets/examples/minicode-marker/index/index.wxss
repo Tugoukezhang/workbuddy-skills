@@ -1,0 +1,39 @@
+.page-section-gap{
+  box-sizing: border-box;
+  padding: 0 30rpx;
+}
+
+.page-body-button {
+  margin-bottom: 30rpx;
+}
+
+.customCallout {
+  box-sizing: border-box;
+  background-color: #fff; 
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  width: 150px;
+  height: 40px;
+  display: inline-flex;
+  padding: 5px 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+}
+
+.content {
+  flex: 0 1 auto;
+  margin: 0 10px;
+  font-size: 14px;
+}

@@ -1,0 +1,34 @@
+<view class="page-body">
+  <view class="page-section page-section-gap">
+    <map
+      id="myMap"
+      style="width: 100%; height: 300px;"
+      latitude="{{latitude}}"
+      longitude="{{longitude}}"
+      bindmarkertap="markertap"
+      bindcallouttap="callouttap"
+      bindlabeltap="labeltap"
+      markers="{{markers}}"
+      scale="16"
+    >
+      <cover-view slot="callout">
+        <block wx:for="{{customCalloutMarkerIds}}" wx:key="*this">
+          <cover-view  class="customCallout" marker-id="{{item}}" >
+            <cover-image class="icon" src="/image/voice.png"></cover-image>
+            <cover-view class="content"> 
+              {{num}}-{{item}}-{{index}}
+            </cover-view>
+          </cover-view>
+        </block>
+      </cover-view>
+    </map>
+  </view>
+
+  <view class="btn-area">
+    <button bindtap="addMarker" class="page-body-button" type="primary">添加marker</button>
+    <button bindtap="removeMarker" class="page-body-button" type="primary">移除所有marker</button>
+    <button bindtap="translateMarker" class="page-body-button" type="primary">随机移动一个marker</button>
+    <button bindtap="changeMarkerId" class="page-body-button" type="primary">轮换自定义callout的位置</button>
+    <button bindtap="changeContent" class="page-body-button" type="primary">改变自定义callout内容</button>
+  </view>
+</view>

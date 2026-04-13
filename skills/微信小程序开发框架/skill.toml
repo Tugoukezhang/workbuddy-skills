@@ -1,0 +1,13 @@
+name = "微信小程序开发框架"
+version = "1.0.0"
+description = "微信小程序开发框架。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

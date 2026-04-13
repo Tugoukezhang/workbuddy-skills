@@ -1,0 +1,13 @@
+name = "Agent Browser"
+version = "1.0.0"
+description = "快速Rust-based无头浏览器自动化CLI，支持Node.js回退，使AI代理能够通过结构化命令导航、点击、输入和截图页面。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

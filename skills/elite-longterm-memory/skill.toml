@@ -1,0 +1,13 @@
+name = "Elite Longterm Memory"
+version = "1.0.0"
+description = "Cursor、Claude、ChatGPT和Copilot的终极AI代理记忆系统。WAL协议+向量搜索+git-notes+云备份。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

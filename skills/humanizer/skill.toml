@@ -1,0 +1,13 @@
+name = "Humanizer"
+version = "1.0.0"
+description = "从文本中移除AI生成的写作痕迹。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

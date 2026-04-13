@@ -1,0 +1,13 @@
+name = "腾讯技术公益"
+version = "1.0.0"
+description = "腾讯技术公益智能助手。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

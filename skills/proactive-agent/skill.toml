@@ -1,0 +1,13 @@
+name = "Proactive Agent"
+version = "1.0.0"
+description = "将AI代理从任务跟随者转变为主动合作伙伴。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

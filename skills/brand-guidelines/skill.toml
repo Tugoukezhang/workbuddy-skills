@@ -1,0 +1,13 @@
+name = "Brand Guidelines"
+version = "1.0.0"
+description = "将Anthropic的官方品牌颜色和排版应用于任何可能受益于Anthropic外观和感觉的工件。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

@@ -1,0 +1,18 @@
+<map 
+  id="mapId"
+  class="map"
+  latitude="{{latitude}}"
+  longitude="{{longitude}}"
+  bindmarkertap="onMarkerTap"
+  bindcallouttap="onCalloutTap"
+  bindlabeltap="onLabelTap"
+></map>
+
+<view class="btn-area service">
+  <button bindtap="removeMarkers">
+    移除参与聚合点的marker
+  </button>
+  <button bindtap="addMarkers">
+    添加聚合点marker
+  </button>
+</view>
