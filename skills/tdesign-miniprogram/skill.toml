@@ -1,0 +1,13 @@
+name = "TDesign Mini Program"
+version = "1.0.0"
+description = "TDesign小程序组件库。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

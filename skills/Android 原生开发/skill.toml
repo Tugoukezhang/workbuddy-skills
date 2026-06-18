@@ -1,0 +1,13 @@
+name = "Android原生开发"
+version = "1.0.0"
+description = "Android原生应用开发和UI设计指南。涵盖Material Design 3、Kotlin/Compose开发、项目配置、无障碍功能和构建故障排除。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

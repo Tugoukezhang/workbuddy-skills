@@ -1,0 +1,396 @@
+[0] 第一段
+[1] 思路： 房间 → 打游戏 → 胜利 → 入睡
+[2] 
+[3] 【镜头1】3秒 | 近景手与上半身
+[4] 昏暗房间,RGB键盘蓝紫光映在修长手指上,左手飞速敲击,右手鼠标毫米级
+[5] 微调,肩胛骨因高频操作有节奏地微微耸动,桌面一角能量饮料罐已见底。
+[6] 
+[7] 【镜头2】4秒 | 由下至上跟镜
+[8] 镜头从键盘缓缓上移，经过手臂、肩膀、下颚，停在男生正脸，屏幕蓝光在
+[9] 瞳孔中流动，右嘴角扬起一丝极细微的弧度，持续不到0.5秒便消失，表情恢复如常，眼神更加专注。
+[10] 
+[11] 【镜头3】2秒 | 大特写屏幕
+[12] 显示器上 BOSS 血条归零爆裂，金色 VICTORY 大字轰然弹出，粒子特效炸满屏幕。
+[13] 
+[14] 【镜头4】3秒 | 中景伸展
+[15] 屏幕金光短暂照亮男生的脸，表情依然平静，随后双手离键，双臂向上全力
+[16] 伸展，身体后仰，伸了一个结实的懒腰，头顶上方手指张开。
+[17] 
+[18] 【镜头5】3秒 | 中景转椅
+[19] 伸完懒腰，男生单手转动电竞椅，身体转向侧面墙壁，他抬起头，视线投向
+[20] 墙上投影。
+[21] 
+[22] 【镜头6】2秒 | 大特写投影时钟
+[23] 墙面投影，白色数字：02:37 AM，数字在暗墙上微微泛光。
+[24] 画面右下角弹出 Q 版小人：张嘴打呵欠 + 眼角挂一滴泪珠，1.5秒消失。
+[25] 
+[26] 【镜头7】3秒 | 中景靠椅
+[27] 男生看完时间，身体缓缓沉进椅背。双手自然搭在两侧扶手，头后仰靠住椅背
+[28] 顶部，身后 RGB 键盘灯缓缓熄灭，房间只剩投影仪微弱光芒。
+[29] 
+[30] 【镜头8】4秒 | 大特写入眠
+[31] 男生半张脸特写，眼皮沉重地缓缓合上——闭眼前最后一瞬，瞳孔映着投影微光，
+[32] 随即彻底暗下去，呼吸逐渐放缓，画面缓缓淡出至黑屏。
+[33] 
+[34] 
+[35] 第二段
+[36] 思路：入梦 → 坠落 → 挣扎 → 睁眼 → 戒备
+[37] 
+[38] 【镜头1】3秒 | 中近景入梦
+[39] 黑屏，男生侧脸轮廓从黑暗中浮现，眼皮微动，画面边缘出现细密裂纹——
+[40] 像玻璃碎裂的纹路从眼角向外蔓延，黑屏碎裂散落，男生身体后倾，坠入
+[41] 展开的暗紫色隧道空间，白色亮光在画面深处骤然点亮。
+[42] 
+[43] 【镜头2】3秒 | 中全景坠落
+[44] 男生正面朝镜头，身体后仰呈坠落姿态，亮光从他身体轮廓边缘向外溢出，
+[45] 不遮挡面部，背景暗紫色隧道两侧，巨大的发光几何碎片缓慢旋转，碎片
+[46] 表面映出流动的细密光线纹路。
+[47] 
+[48] 【镜头3】2秒 | 中景推镜
+[49] 镜头从男生全身向面部匀速推进，头发开始被向上的气流吹起，衬衫领口
+[50] 翻动，身后隧道亮光随着距离拉远逐渐变小，但始终可见。
+[51] 
+[52] 【镜头4】3秒 | 近景加速
+[53] 推镜结束，锁定男生面部，周围几何碎片突然加速向上掠过，画面产生竖直
+[54] 方向的速度拖影线，男生紧皱眉头，面部肌肉紧绷，双眼紧闭，手指在身侧
+[55] 微微抽搐，头发和衣领被气流猛力向上扯动。
+[56] 
+[57] 【镜头5】3秒 | 近景舒展
+[58] 碎片旋转速度逐格放缓，男生紧皱的眉头从中央向外缓缓松开——先是眉心、
+[59] 再是眼角，双臂从紧贴身侧向外微微张开，手指从蜷缩状态下意识舒展，
+[60] 身体姿态从蜷缩抗拒过渡为自然打开。
+[61] 
+[62] 【镜头6】3秒 | 中近景光降
+[63] 男生身下浮现淡淡暖金色光晕，如一层柔和光雾从下方缓缓升起，包裹住他
+[64] 整个身体，光雾与他以同一速度下坠，并非静止，坠落速度明显减缓，头发
+[65] 从猛烈扯动变为轻柔浮动，暖金光照亮他半张脸，与背景冷紫色形成色调过渡。
+[66] 
+[67] 【镜头7】4秒 | 大特写睁开
+[68] 暖金色光在闭合的眼皮上浮动，睫毛开始细微颤动——先是一两根，然后整排
+[69] 轻颤，双眼极其缓慢地睁开，瞳孔微微散大，没有锁定任何目标。暖金光逐渐从脸上消散，
+[70] 画面色调从暖金过渡到冷灰，双目茫然地眨了两次。
+[71] 
+[72] 【镜头8】3秒 | 近景着陆
+[73] 男生单手撑在灰色碎石地面上，身体从仰躺姿态缓缓撑起，四周浓雾弥漫，
+[74] 能见度约三米，远处雾中隐约有一条残破石路的轮廓向前延伸，他抬头环顾
+[75] 左右，表情困惑——眉头微蹙，嘴唇微张，呼吸可见微弱白气。
+[76] 
+[77] 【镜头9】2秒 | 近景+Q版·确认
+[78] 男生抬起右手，用手指戳了戳自己脸颊——真实的触感让他表情一滞。画面
+[79] 角落弹出 Q版二头身形象：双眼瞪大呈震惊状，双手拍打自己脸颊，嘴型呈
+[80] "这怎么可能？！"的夸张弧度，Q版气泡消失后，切回真实比例——表情从困惑
+[81] 变为严肃，眼神中的恍惚消失，瞳孔聚焦。
+[82] 
+[83] 【镜头10】3秒 | 近景戒备
+[84] 男生缓缓站直身体，眼神警惕地扫视迷雾深处，右手在身侧自然垂下，手指
+[85] 一根接一根缓缓握紧成拳，身体微微下沉，膝盖微弯，远处雾中，一块碎石
+[86] 毫无征兆地滚动了半圈，停在男生视线方向。
+[87] 
+[88] 
+[89] 第三段
+[90] 思路：探索 → 发现石门 → 犹豫 → 触碰 → 被拽入
+[91] 
+[92] 【镜头1】3秒 | 近景放下戒备
+[93] 转头的瞬间，拳头缓缓松开，身体从微蹲戒备姿态慢慢站直，锁定声音方向，
+[94] 视线在浓雾中扫过，白色呼吸雾气从口鼻缓缓呼出。
+[95] 
+[96] 【镜头2】3秒 | 中景探索
+[97] 男生压低身体重心，膝盖微弯，脚步极其安静——不像恐惧，更像猎人的谨慎，
+[98] 右手自然垂在身侧，左手微微抬起在胸前保持平衡，每一脚踏在碎石上都是
+[99] 先脚尖试探、再脚跟着力，眼神始终平视前方，呼吸慢而均匀。
+[100] 
+[101] 【镜头3】2秒 | 近景发现
+[102] 浓雾中，一条碎石小径的残破轮廓隐约浮现——蜿蜒向前，两侧散落断裂石柱，
+[103] 路的尽头约二十米外，一个巨大的拱形轮廓在雾中若隐若现，他停住脚步，
+[104] 眼睛微微睁大，眉头从紧锁变为松动，视线锁定路的尽头。
+[105] [注：此处石门为远景，细节不清]
+[106] 
+[107] 【镜头4】2秒 | 大特写犹豫
+[108] 切脚部，男生的右脚向前抬起，停顿在半空，脚尖迟迟未落——然后缓缓收回，
+[109] 放在原地，脚跟落地的一瞬，左脚又抬起半步，但最终没有迈出去，又落回
+[110] 原地，碎石在脚底两次碾动。
+[111] 
+[112] 【镜头5】2秒 | 特写决定
+[113] 切面部，眉头缓缓压紧，深吸一口气——白色雾气从口鼻涌出，瞳孔聚焦，
+[114] 锁定路的尽头，脚果断向前迈出。
+[115] 
+[116] 【镜头6】3秒 | 中景行进
+[117] 男生沿着蜿蜒的碎石小径快步前进，镜头跟随侧后方，浓雾在他身侧翻涌掠过
+[118] 又散开，路的尽头逐渐清晰——一座巨大的残破石门，门框由两块倾斜的
+[119] 巨石组成，中央悬着一层薄薄的紫色光晕，像水面的波纹般缓慢流动，光晕
+[120] 表面泛着微弱的紫色电纹。
+[121] 
+[122] 【镜头7】4秒 | 中近景触碰
+[123] 男生站在石门前方，离紫色光晕仅一步之遥，他低头看了看自己的右手，
+[124] 缓缓抬起——指尖在光晕前停了一秒，紫光映在他的脸上闪烁，指尖向前，
+[125] 触到光晕表面的瞬间，紫色波纹从接触点向外荡开一圈涟漪，手指穿过光晕，
+[126] 消失在紫色波纹的另一侧——没有痛感，没有阻力，他表情一震——震惊中
+[127] 带着一丝好奇，紫光在瞳孔里跳动。
+[128] 画面右下角弹出 Q 版震惊表情 1.5秒后消失。
+[129] 
+[130] 【镜头8】2秒 | 大特写被拽
+[131] 男生准备抽回手臂，前臂肌肉微绷——但手臂纹丝不动，紫色光晕突然变亮，
+[132] 波纹从缓慢流动变为剧烈震荡，光晕表面的紫色电纹向手臂蔓延，缠绕住
+[133] 前臂，他的表情从好奇转为惊恐——瞳孔急剧收缩，光晕产生的拉力让他的
+[134] 身体开始前倾，但双脚仍死死踩在地上，脚下的碎石开始向前缓缓滑动——他快踩不住了。
+[135] 
+[136] 【镜头9】3秒 | 中景吞没
+[137] 拉力骤增，男生的身体被一股无形力量猛然拽向光晕中心，双脚在地面拖出
+[138] 两道碎石划痕，身体后仰，他用空着的那只手无意识地向前猛伸，试图抓住
+[139] 什么——但只有雾气，最后一帧，他半个身体进入光晕，紫光包裹住他的轮廓。
+[140] 光晕猛地收缩闭合——像水面合拢——表面泛出两圈涟漪后恢复平静波纹，
+[141] 画面切黑屏0.3秒，黑屏中闪过一帧他惊恐面容的紫色残影，缓缓淡出。
+[142] 
+[143] 
+[144] 第四段
+[145] 思路：降临 → 眩晕 → 震撼 → 文字 → 确认
+[146] 
+[147] 新场景环境：一片巨大的环形深坑，直径数百米，坑壁上布满碎裂的石碑、
+[148] 倾倒的石柱，地面上散落着锈蚀的剑、碎裂的盾牌、折断的长矛，天空是
+[149] 灰暗的琥珀色，没有太阳，空气中悬浮着细微的尘埃颗粒，整体色调偏灰褐。
+[150] 琥珀色天空本身发出均匀的微弱散射光（顶光），坑底深处透出微弱蓝光，
+[151] 以缓慢心跳的节奏脉动（底光），面部光照 = 顶光为主、底光为辅，
+[152] 面部表情清晰可见，下巴和颧骨下方泛淡蓝色补光。
+[153] 
+[154] 画面从全紫光中碎裂展开。
+[155] 
+[156] 【镜头1】2秒 | 过渡降临
+[157] 紫色光晕在画面中炸裂成碎片，碎片四散飞溅，男生从碎裂的光晕中跌落
+[158] 而出——身体侧倾，一只脚重重踩在碎石地面上，膝盖弯曲，画面色调从
+[159] 紫色瞬间切换为灰褐琥珀色光晕碎片在他身后消散如烟。
+[160] 
+[161] 【镜头2】3秒 | 近景眩晕
+[162] 男生的视野先是模糊一团，然后猛地聚焦——又晃散了，再强制聚焦。
+[163] 他单手撑在膝盖上，身体前倾。闭眼，深呼吸一次——胸口大幅度起伏
+[164] 一次后放缓。头发上残留的紫色微光粉末缓缓飘散。
+[165] 
+[166] 【镜头3】3秒 | 中近景抬头
+[167] 眩晕逐渐消退。男生缓缓直起上半身，视线从地面的碎石抬起。然后——
+[168] 瞳孔猛然缩小。眉毛微压。嘴唇闭合，但下唇和上唇之间不自觉地分开
+[169] 一条细缝。呼吸停了一拍。他被眼前的景象钉在原地。
+[170] 
+[171] 【镜头4】2秒 | 全景深坑
+[172] （男生视线的落点）巨大环形深坑的全景。坑壁陡峭，布满斜插的断裂石碑
+[173] 和倾倒的石柱。地面散落着锈蚀的武器——一把巨大的残剑斜插在画面前景
+[174] 的地面上，剑刃缺了一个大口，刃面上有干涸的暗色痕迹。远处坑底深处
+[175] 透出微弱的蓝光，以缓慢心跳的节奏脉动。空气中悬浮着寂静的尘埃。
+[176] 
+[177] 【镜头5】2秒 | 中景坑边
+[178] 男生的背影，站在深坑边缘。深坑在他身前展开，坑底蓝光脉动映照他的
+[179] 白色T恤边缘。他的肩膀微耸，双臂自然垂在身侧。整个人显得很小，深坑
+[180] 很大。
+[181] 
+[182] 【镜头6】3秒 | 近景回神
+[183] 切回男生面部。震撼的表情持续了两秒。然后他缓缓闭上嘴，喉结上下滚动
+[184] 了一次——咽下一口唾沫。眼神从震惊转为凝重，瞳孔缓慢扫视环境。呼吸
+[185] 放慢，变回冷静模式，但眉头依然微蹙。
+[186] 
+[187] 【镜头7】3秒 | 中景·接近
+[188] 男生从深坑边缘缓步走下碎石斜坡。镜头从侧后方跟拍。他绕开地上的断裂
+[189] 长矛。经过一把斜插在地面的巨剑时，脚步慢了一拍——余光扫过剑刃上
+[190] 干涸的暗色痕迹——然后继续走向石碑。他朝着一块最大、最完整的断裂石碑
+[191] 走去。石碑约一人高，斜插在地面上，表面覆盖厚厚一层灰色尘埃，隐约
+[192] 可见下方有刻痕。
+[193] 
+[194] 【镜头8】4秒 | 特写拂尘
+[195] 男生在石碑前半蹲下来。他伸出右手——指尖先是在石碑表面的灰尘上方
+[196] 停了一瞬。然后手掌缓缓拂过石碑表面，厚厚的灰尘从石碑上簌簌滑落。
+[197] 灰尘之下，第一行雕刻的纹路显露出来——一种他从未见过的文字，笔画
+[198] 锐利、棱角分明，每一笔都像刀刻。
+[199] 特写他的脸：双唇微张，静止不动，眼睛一眨不眨地凝视文字。不是说话
+[200] 的口型——是震惊到忘了说话的凝视。
+[201]  画面右下角弹出 Q 版震惊表情 1.5秒后消失。
+[202] 
+[203] 【镜头9】2秒 | 特写凝视
+[204] 男生的视线从文字上缓缓移开，低头看自己的右手掌——那只刚才拂过石碑
+[205] 的手。他看着自己的手，眉头从震惊缓缓转为一种不确定的思考。手掌微微
+[206] 翻转，灰尘在纹路间清晰可见。
+[207] 
+[208] 【镜头10】2秒 | 大特写触觉
+[209] 他收回右手，手掌翻过来面朝自己。指肚上沾着一层灰褐色的细尘。他用
+[210] 拇指缓缓碾过食指指肚上的灰尘——搓了搓，灰尘在指纹间散成两缕。他的
+[211] 视线牢牢锁在指尖上。表情变了——困惑中浮现一丝惊恐。他翻过手掌看手背，
+[212] 又翻回来看手心，反复两次。
+[213] 
+[214] 【镜头11】3秒 | 近景确认
+[215] 他缓缓站直身体。低头又一次看了自己的手掌——然后用力握拳，又猛地
+[216] 张开，攥拳、张开，连续两次。指甲用力一掐——掌心出现四个浅浅的凹陷
+[217] 小坑。他盯着掌心的凹陷，瞳孔微微一缩。眼神从困惑彻底转为确认——
+[218] 这不是梦。他慢慢转过身，视线投向深坑底部蓝色光晕脉动的方向。蓝光
+[219] 的方向 = 深坑正中心的方向 = 他视线锁定的方向。蓝色微光以缓慢心跳
+[220] 的节奏映在他的脸上，一次亮、一次暗。画面定格在他的侧脸，蓝光在他
+[221] 眼中跳动。
+[222] 
+[223] 
+[224] 第五段
+[225] 思路：拔刀 → 怪物 → 追逐 → 拦截 → 对峙
+[226] 
+[227] 环境：同上。深坑正中心，一把精美的长刀斜插在低矮残破石台之上。
+[228] 人物：同上。Q版已生成（抓狂、失落）。刀三视图已锁定。怪物三视图已锁定。
+[229] 灵魂之火参考图已锁定。
+[230] 
+[231] 道具说明：
+[232] 刀：精美长刀，刀身细长略带弧度，刀柄缠绕暗色皮革，护手呈双翼展开形。
+[233] 拔刀后刀身浮现白色光羽纹路。光羽从刀身脱离后以缓慢速度向上飘升
+[234] 10-20cm 后消散。全片光羽遵循此规则。刀身固有色 = 暗银灰钢。
+[235] 全段刀始终在男生手中，无刀鞘。
+[236] 
+[237] 怪物：由雾气与蓝白色能量凝聚而成的巨大人形轮廓，没有清晰的五官，
+[238] 头部位置有两团跳动的蓝白色光核作为"眼睛"。身体边缘不断逸散出
+[239] 雾状触须。身高约两层楼。
+[240] 
+[241] 
+[242] 【镜头1】2秒 | 近景发现
+[243] 男生站在原地，视线已经锁定深坑正中心方向。瞳孔微微调整焦距——看清了
+[244] 石台上那把刀的轮廓。表情从凝重变为一种被牵引般的专注。
+[245] 
+[246] 【镜头2】2秒 | 中景武器
+[247] 深坑正中心，一座低矮的残破石台。石台中央斜插着一把精美的长刀。
+[248] 刀身映出坑底蓝光的微光。刀周围的地面上，一圈淡淡的白色光晕以
+[249] 缓慢的节奏向外扩散又收回，像在呼吸。
+[250] 
+[251] 【镜头3】3秒 | 中景接近
+[252] 男生从石碑旁迈步向石台走去。步伐不快，方向明确，视线锁定在刀上。
+[253] 走到石台正前方，停住。低头凝视刀柄——皮革纹路清晰可见。右手缓缓
+[254] 抬起——手腕微微颤抖三次后停住，像是在抵抗一股无形的拉力，又像是
+[255] 被什么牵引着不得不伸过去。
+[256] 
+[257] 【镜头4】2秒 | 大特写握刀
+[258] 右手手指一根一根扣上刀柄。手掌与皮革接触的瞬间，刀柄纹路深处闪过
+[259] 一缕极淡的白光，白光沿着手指缝隙流入他的手腕，一闪即逝。
+[260] 
+[261] 【镜头5】3秒 | 中近景拔刀
+[262] 右手猛然用力。刀身一寸一寸从石台中拔出，手臂肌肉绷紧。刀尖脱离
+[263] 石台的瞬间——石台缝隙中冒出第一缕白色烟雾。男生没有察觉，全部
+[264] 注意力在刀上。他缓缓抬刀至眼前，刀刃表面浮现出细密的白色光羽纹路，
+[265] 一片接一片从刀身上轻轻飘起，又缓缓消散在空气中。
+[266] 
+[267] 【镜头6】2秒 | 中景涌烟
+[268] 石台缝隙中的烟雾越来越多——十几缕白烟同时涌出，相互缠绕。烟雾
+[269] 违反物理规律地向正上方聚集，在石台上方汇成一颗旋转的白色烟球。
+[270] 男生仍在看刀，尚未察觉背后的异变。
+[271] 
+[272] 【镜头7】2秒 | 大特写灵魂之火
+[273] 白色烟球的核心突然发光——先是微弱的蓝白斑点，然后猛然亮起，形成
+[274] 一团剧烈跳动的灵魂之火。火心以不规则的频率闪动，每闪一次，周围
+[275] 雾气都加速被吸入核心。
+[276] 
+[277] 【镜头8】2秒 | 面部特写警觉
+[278] 刀身上所有光羽在同一瞬间全部熄灭。男生表情骤变——嘴角微抽，瞳孔
+[279] 急缩。猛地回头。看见身后石台上方那颗跳动的蓝白火球。
+[280] 
+[281] 【镜头9】3秒 | 中景后撤
+[282] 神情从警觉迅速变为严肃。脚步开始向后撤——一步、两步、三步。节奏
+[283] 在加快。右手握刀横在身前，刀尖微微颤抖。
+[284] 
+[285] 【镜头10】3秒 | 全景化身
+[286] 灵魂之火猛然膨胀炸开——雾气与蓝白色能量向四周扩散后凝聚成一个巨大
+[287] 的雾状人形轮廓。轮廓头部位置亮起两团蓝白色光核，如双眼锁定男生的
+[288] 方向。怪物身体边缘不断逸散出蠕动的雾状触须。身高约两层楼。
+[289] 
+[290] 【镜头11】2秒 | 中景逃
+[291] 男生瞳孔猛地放大。没有任何犹豫——转身就跑。右手紧握长刀，刀尖向后
+[292] 拖在身侧，在碎石地面上划出一道火星轨迹。朝着深坑边缘方向全速冲刺。
+[293] 
+[294] 【镜头12】3秒 | 中景追杀
+[295] 怪物头部光核剧烈闪动。它双臂向前挥出，两股粗壮的雾气触手从身体
+[296] 两侧射出——雾气触手形态：直径约半米的圆柱形雾流，末端分叉为3-4股
+[297] 细雾丝。一股直追男生背后，另一股以更高弧线飞越上空，向深坑
+[298] 边缘方向包抄。雾气触手所过之处，地面碎石被气浪掀飞。
+[299] 
+[300] 【镜头13】2秒 | 中景加速
+[301] 男生感受到背后逼近的气浪——回头一瞬。然后速度突然爆发式提升。握刀
+[302] 的右手手腕处亮起一圈三维环状缠绕的白色光环（镜4流入体内的那缕光）。他双腿交替
+[303] 快到模糊，每一步激起一圈环形冲击波。身体压低，像一头被逼入绝境后
+[304] 反而更快的猎豹。坑底蓝光同步脉动闪了一下。
+[305] 
+[306] 【镜头14】2秒 | 特写闪避
+[307] 雾气触手追至男生背后——他侧身向右猛跳，身体在空中横转半圈。雾气
+[308] 触手擦着腰部掠过，衣摆被气浪掀起。触手撞击地面炸开，碎石四溅。
+[309] 男生单膝落地，不做停顿重新弹起继续冲刺。
+[310] 
+[311] 【镜头15】2秒 | 中景音爆
+[312] 男生再次加速。周身空气开始扭曲——猛地炸开一圈透明环形冲击波。画面
+[313] 剧烈抖动+亮度瞬间爆闪。碎石以男生为中心向外环形激射。他的
+[314] 身体前方形成一道模糊的半透明气锥。
+[315] 
+[316] 【镜头16】3秒 | 中景拦截
+[317] 就在即将抵达深坑边缘时——头顶上方，包抄的雾气比他更快。雾气如瀑布
+[318] 般从空中倾泻，在男生前方形成一道数米高的雾墙。男生急停——双脚在
+[319] 碎石上滑出半米。他站在雾墙下，抬头望向挡住自己去路的白色雾气屏障，
+[320] 脸上露出无奈的神色。
+[321] Q版小人在画面左下角弹出——瞪大眼+双手拍脸+头顶冒弯曲黑线。
+[322] 1.5秒后消失。
+[323] 
+[324] 【镜头17A】4秒 | 近景决心
+[325] 男生回头——怪物在远处缓缓逼近，每走一步地面轻震。他转回身，低头看了
+[326] 手中的刀。深吸一口气——胸腔明显鼓起，缓缓吐出，白雾从口鼻涌出。瞳孔
+[327] 从摇曳不定转为锁定目标。双手重新握紧刀柄，手指一根一根扣紧，指节泛白。
+[328] 他膝盖微弯，身体微微压低。眼神不再有恐惧——只有冷静的决意。
+[329] 
+[330] 【镜头17B】3秒 | 中景对峙
+[331] 男生缓缓抬起刀，刀尖指向怪物。他仰头——怪物两层楼高的轮廓居高临下，
+[332] 他只能看到怪物的上半身和那双跳动的光核。手心渗出的细汗在刀柄皮革上
+[333] 留下浅浅湿痕。面部光照：前方怪物白光为主（70%），身后蓝光仅在下颚
+[334] 和颧骨下方泛极淡冷色补光（30%）。刀身光羽光泽只照亮手部区域，不照脸。
+[335] 他的脸被身后蓝光脉动和前方怪物的白光照亮。刀身上的光羽
+[336] 重新浮现——一片、又一片，比之前更亮。怪物头部光核剧烈闪动。身后的雾墙纹丝不动——他无路可退。
+[337] 画面定格。黑屏0.5秒，黑屏中刀身光羽一闪。淡出。
+[338] 
+[339] 
+[340] 固定要求
+[341] 男生：样式锁定，身高/面部/服饰/鞋子不变
+[342] 武器：样式锁定
+[343] 灵魂之火：样式锁定
+[344] 怪物：样式锁定
+[345] 
+[346] 
+[347] 第六段
+[348] 思路：触手砸地 → 闪避 → 反击 → 跳斩 → 暴击 → 对峙 → 二阶段   ║
+[349] 
+[350] 前情：五段镜17B，男生双手持刀对峙怪物，雾墙在身后，画面定格。
+[351] 
+[352] 环境：深坑遗迹，灰褐琥珀色天空，坑底蓝光脉动，雾墙在身后。
+[353] 地面统一为"cracked and shattered battlefield ground"。
+[354] 
+[355] 格式说明：英文 Prompt，框架式写法。每镜一个核心动作，不写连续动作。
+[356] 镜头和人物同时动。AI 自己分配节奏。后期速度/转场/BGM在剪辑台完成。
+[357] 战斗不用Q版。
+[358] 
+[359] 道具：男生+刀+光羽+手腕白光光环 | 怪物+雾触手(圆柱形+3-4细雾丝)+头部双光核
+[360] 二阶段怪物(已出图，吸取石碑灵魂后进化) | 斜插地面巨剑(剑刃缺了大口) | 散落石碑(四段同一批)
+[361] 
+[362] 【F1】怪物触手砸地
+[363] A massive fog tentacle smashes down onto the shattered stone ground from above, cracking the surface and spraying broken rocks and dust outward. A visible shockwave ring radiates across the ground. The young boy in white T-shirt stands at the edge of the impact, gripping his long blade with both hands, his hair blowing back from the shockwave. Low-angle ground-level camera, strong motion blur on debris, deep blue light pulsing from the pit bottom. Cinematic anime action shot.
+[364] 
+[365] 【F2】侧身闪避·触手擦镜
+[366] Another tentacle sweeps in horizontally from the side, passing extremely close to the camera lens with heavy motion blur, filling the foreground out of focus. Focus pull on the boy in the midground — he leans sideways and slides away from the attack in sharp focus, body low and balanced, blade held behind him with white feather-light particles trailing. The fog wall behind him glows faintly from the reflected light. Fast dynamic tracking shot, strong sense of speed. Clean anime composition.
+[367] 
+[368] 【F3】冲刺反击
+[369] The boy suddenly dashes forward across the cracked battlefield ground toward the monster. Low-angle camera tracks backward rapidly, his wrist glows with a white ring of light, speed lines streak across the frame, broken rocks kick up behind his footsteps. Blade held low and ready, white energy trailing from the edge. He plants his front foot hard, pivots his hips, and starts a horizontal swing. Strong sense of acceleration, motion blur, dynamic cinematic anime shot.
+[370] 
+[371] 【F4】刀光横斩触手
+[372] The boy completes the horizontal slash, cutting across a low-hanging fog tendril at chest height. The blade cuts through with a burst of white feather-like light particles exploding outward. The fog tears open along the slash line before slowly closing. Sparks fly where the edge meets the mist. The reflected white light from the slash briefly illuminates the fog wall behind him, revealing a faint, unclear silhouette within the mist for a split second. Low camera angle, strong impact frame. Cinematic anime action.
+[373] 
+[374] 【F5】怪物多触手砸地·巨石崩起
+[375] The monster roars silently and slams multiple thick fog tentacles down onto the ground simultaneously. The stone surface cracks open violently, huge chunks of rock are launched upward into the air, dust and debris fill the frame. The boy braces himself, shielding his face with one arm, blade ready. A flying rock shard cuts a thin bleeding line across his cheek. Wide-angle shot, massive destruction, blue pit light flickering through the chaos. Intense cinematic atmosphere.
+[376] 
+[377] 【F6】跳上飞行巨石
+[378] Amidst the chaos, his eyes lock onto a massive stone slab flying upward — the slab soars up to the monster's shoulder height. He crouches, then leaps upward toward it. One foot lands first on the rough broken edge of the flying rock, his body tilted forward, second leg still extended behind, using it as a stepping platform mid-air. His white ring of light flares brightly on his wrist, legs coiled for the next jump. Camera tilts upward following the trajectory, debris floating in slow motion around him. Dramatic anime action composition.
+[379] 
+[380] 【F7】空中跳斩·直取光核
+[381] The boy launches off the stone slab mid-air, soaring toward the monster's head, both hands gripping the blade overhead, the weapon glowing brilliantly with white feather lights trailing behind. The camera tilts up sharply from below, capturing him against the amber sky, blade poised directly at one of the monster's twin glowing blue-white core eyes. Extreme sense of height and speed, dynamic perspective. Peak cinematic anime shot.
+[382] 
+[383] 【F8】光核暴击·蓝白共鸣
+[384] The blade strikes one of the monster's core eyes directly. A massive burst of white light explodes from the impact point first, then the blue light at the bottom of the pit surges violently in response, white and blue energy briefly intertwine across the frame. The monster's entire fog body convulses and staggers. The screen goes white briefly during the fall. Low-angle upward shot. Extreme brightness contrast. Climactic anime impact shot.
+[385] 
+[386] 【F9】慢镜落地
+[387] The boy lands on the cracked and shattered battlefield ground, one knee bent, blade tip touching the ground beside him for balance. A brief pulse of white light from his wrist absorbs the fall impact. A circular shockwave of dust and small rocks radiates outward from his landing point. Slow-motion shot, his hair settles. He glances at the thin bleeding cut on his cheek, then ignores it — his focus already back on the enemy. White feather particles drifting down around him like soft snow. Low-angle camera, calm after the climax. Cinematic anime resolution frame.
+[388] 
+[389] 【F10】对峙呼吸·巨剑入画
+[390] The boy slowly straightens up, breathing hard but controlled. A flicker of realization crosses his face — he is still alive, he is still fighting. He stands next to the giant broken sword stuck in the ground, its blade chipped and scarred with a large notch. The giant sword and the boy form a diagonal line across the frame. Distant broken stone tablets visible behind the monster. The blade in his hand still glimmers with faint white light. The monster in the distance staggers but does not fall. The blue light from the pit pulses faster than before. The amber sky barely perceptibly beginning to dim. Standoff composition, strong silhouette contrast, tense quiet before the next storm.
+[391] 
+[392] 【F11】二阶段钩子
+[393] The staggered monster reaches out with its fog tendrils toward the broken stone tablets scattered around the pit. The stone tablets tremble and crack slightly. Ghostly blue-white soul energy flows from the ancient carved tablets into the monster's body. The boy tenses forward instinctively, then halts — the absorption is too fast. Its fog form twists and reshapes, growing larger, more defined, new jagged forms emerging within the mist. The twin core eyes flash erratically, then stabilize into a brighter, more menacing glow. The white feather lights on the boy's blade flicker and lean toward the absorbing monster, as if recognizing the soul energy. The boy stands blade raised, eyes narrowing, calculating, the thin cut on his cheek still bleeding. Darker atmosphere, the amber sky dimming, blue pit light pulsing violently. Wide shot, low angle. Phase two transformation. Clean bold anime composition. To be continued.
+[394] 
+[395] ─── 未完待续 ───

@@ -1,0 +1,13 @@
+name = "Frontend Development"
+version = "1.0.0"
+description = "全栈前端开发，结合高级UI设计、电影动画、AI生成的媒体资产、有说服力的文案和视觉艺术。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

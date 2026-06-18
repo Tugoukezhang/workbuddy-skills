@@ -1,0 +1,13 @@
+name = "CloudQ云开发助手"
+version = "1.0.0"
+description = "腾讯云产品资源、AWS、阿里云等多云资源的智能顾问。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

@@ -1,0 +1,13 @@
+name = "iOS应用开发"
+version = "1.0.0"
+description = "iOS应用开发指南，涵盖UIKit、SnapKit和SwiftUI。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

@@ -1,0 +1,66 @@
+
+想要更流畅写引导提示词、一半交给ai自己发挥
+
+3.让角色和镜头同时动
+人物冲向镜头、镜头后退或者横移、背景运动模糊（可以用减速做转场）、刀光划过特写（可以用作转场）
+就是画面里、人物和摄像机一起动
+参考提示词、
+“camera rapidly tracks backward as the girl dashes forward”
+“low-angle camera slides along the ground”
+“sword slash passes extremely close to the lens”
+
+引导提示词、打架
+
+A cinematic anime sword fight sequence. The two characters keep their exact appearance, outfit, face, hairstyle, weapon, and proportions from the reference images. They are fighting on a bright stone plaza under a clear blue sky, with distant cliffs and a fantasy castle in the background.
+The camera moves dynamically around the characters, using low-angle shots, fast tracking shots, close-up sword passes, and rapid perspective changes. The black-haired swordswoman moves with calm, precise, heavy attacks, while the white-clothed girl moves lightly and quickly, dodging, jumping, and counterattacking.
+
+Their swords clash with bright sparks and white slash trails. Hair, clothes, ribbons, and capes move naturally with the wind and impact. Strong sense of speed, motion blur, cinematic depth of field, smooth anime action, clean composition, high-quality Japanese animation look.
+No character deformation, no extra limbs, no face change, no outfit change, no duplicated weapons, no broken hands, no messy anatomy.
+
+黑毛少女拔剑特写
+
+Close-up shot of the black-haired swordswoman holding her sword horizontally in front of her face. Her blue eyes are sharp and calm. The camera slowly pushes in, her hair moves in the wind, the blade reflects bright daylight. Tense cinematic atmosphere, shallow depth of field, high-quality anime action scene.
+
+金毛少女高速冲刺
+
+The white-clothed girl suddenly dashes forward across the stone plaza toward the opponent. The camera tracks backward at low angle, creating a strong sense of speed. The ground blurs, white slash trails appear behind her weapon, clothes and ribbons flutter violently in the wind.
+
+两人正面打架
+
+The two swordswomen clash in the center of the stone plaza. Their blades collide with bright sparks and white energy trails. The camera circles around them quickly, low-angle cinematic movement, intense impact, dynamic anime sword fight, smooth motion, strong speed lines.
+
+收尾怼脸特写
+
+After the clash, the black-haired swordswoman stands still and looks directly toward the camera with a calm expression. Her hair and earrings move slightly in the wind. The background is softly blurred, the battle tension fades, cinematic anime ending shot.
+
+总结注意点
+主图确定角色场景、i2v 、筛选2-4秒、剪辑转场拼接、音效
+背景音乐 suno5.5
+
+提示词里不要写过于复杂的连续动作、先冲刺-然后跳跃-然后转身-然后格挡-最后反击这种、AI会崩
+
+核心动作分开写、冲刺、格挡、跳跃、擦身、挥剑、对峙、特写
+
+不知道我有没有表达清楚、大概就是这样、替换自己人物的参考图就可以了～
+
+低机位擦身闪避
+
+A low-angle ground-level camera follows the black-haired swordswoman as she slides and dodges a fast sword attack. The enemy blade passes very close to the camera lens, creating strong motion blur. The black-haired girl counterattacks with a sharp horizontal slash.
+
+金毛少女跳跃攻击
+
+The white-clothed girl jumps high into the air and spins with her sword, attacking from above. The camera tilts upward from a low angle, following her movement against the blue sky. White slash arcs cut across the frame, sparks fly when the attack is blocked.
+
+猫咪镜头
+
+Two cats sit calmly on the stone plaza, watching the intense sword fight in the distance. The camera stays still for a short peaceful moment. Bright daylight, soft wind, cute contrast with the battle atmosphere, clean anime composition.
+
+依然笨方法、先做几张关键画面、然后用 i2v+引导提示词一段一段生成、最后剪辑拼起来～
+自己做的话不是让 AI 完整做出一套连贯打斗、而是做很多个看起来正在对打的帅气瞬间的样子
+冲刺、刀剑碰撞、火花、刀光、跳斩、用低角度镜头这些、然后每一段只抓一个动作重点、把不自然的部分剪掉、用刀光、火花、镜头晃动和音效连接起来、注意提示词不要写复杂、不是复刻动作的话用引导的方式写、大概是这样～[美羊羊]
+
+3. 基本不会用控制秒数、这种用动作顺序来控制ai、让ai自己分配这些动作的节奏会更自然、可能会跑出120分的感觉、给它一个动作框架、让它在框架里发挥这种感觉
+比如这一段我要的是少女和猫从画面左侧冲出来、镜头跟着后退、少女靠近镜头、最后形成一个定格
+因为ai本身对精确秒没那么稳定、每个动作基本交给AI自己分配、满意的话节奏控制是在后期完成、剪掉多余部分、调速度、卡转场卡BGM和音效
+我脑子里通常没有预想动作、所以用不到控制那么精确、属于边抽卡边找灵感变打磨[泣不成声][泣不成声]
+=== TABLES ===

@@ -1,0 +1,13 @@
+name = "ByteRover"
+version = "1.0.0"
+description = "AI代理的知识管理系统。使用`brv`存储和检索项目模式、决策和架构规则。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

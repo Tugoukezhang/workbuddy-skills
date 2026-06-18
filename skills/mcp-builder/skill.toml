@@ -1,0 +1,13 @@
+name = "MCP Builder"
+version = "1.0.0"
+description = "创建高质量MCP（模型上下文协议）服务器的指南。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表

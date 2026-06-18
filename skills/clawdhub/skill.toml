@@ -1,0 +1,13 @@
+name = "ClawdHub"
+version = "1.0.0"
+description = "使用ClawdHub CLI从clawdhub.com搜索、安装、更新和发布代理技能。"
+author = "WorkBuddy Skills System"
+enabled = true
+
+[metadata]
+created = "2026-04-07"
+category = "tools"
+tags = ["workbuddy", "skill", "automation"]
+
+[dependencies]
+# 依赖项列表
