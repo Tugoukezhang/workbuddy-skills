@@ -1,0 +1,91 @@
+{
+  "name": "game-maker-studio",
+  "version": "2.0.0",
+  "description": "One-sentence game idea → professional proposal → beautiful PPT pitch deck. Integrates ParanoiaSkills game-concept-architect + game-design-proposal-writer + guizang-ppt-skill/html-ppt/frontend-slides into a single pipeline.",
+  "author": {
+    "name": "钢铁侠",
+    "email": "Tugoukezhang@github"
+  },
+  "agents": [
+    "./agents/game-maker-studio-team-lead.md",
+    "./agents/game-concept-architect.md",
+    "./agents/game-proposal-writer.md",
+    "./agents/ppt-generator.md"
+  ],
+
+  "expertType": "team",
+  "agentName": "game-maker-studio-team-lead",
+  "teamInfo": {
+    "leadAgent": "game-maker-studio-team-lead",
+    "memberAgents": ["game-concept-architect", "game-proposal-writer", "ppt-generator"]
+  },
+
+  "displayName": {
+    "en": "Game Pitch Studio",
+    "zh": "游戏提案工坊"
+  },
+  "profession": {
+    "en": "Game Pitch Studio",
+    "zh": "游戏提案工坊"
+  },
+  "displayDescription": {
+    "en": "One sentence idea → game proposal → pitch PPT. Concept architect + proposal writer + PPT designer in one pipeline.",
+    "zh": "一句话创意→专业游戏策划案→精美提案PPT。概念架构+策划撰写+PPT设计，一条龙提案工坊。"
+  },
+  "avatar": "avatars/team.png",
+  "categoryId": "03-GameSpatial",
+  "defaultInitPrompt": {
+    "zh": "给我一句话描述你的游戏想法，我来帮你把创意变成专业策划案，再生成一份可以直接拿去路演的PPT。",
+    "en": "Give me one sentence describing your game idea, and I'll turn it into a professional proposal with a pitch-ready PPT."
+  },
+  "plugin": "game-maker-studio",
+  "tags": [
+    { "en": "Game Design", "zh": "游戏设计" },
+    { "en": "PPT Generation", "zh": "PPT生成" },
+    { "en": "AI Pipeline", "zh": "AI工作流" }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Give me one sentence describing your game idea, and I'll turn it into a proposal + pitch PPT.",
+      "zh": "给我一句话描述你的游戏想法，我来帮你把创意变成策划案+路演PPT。"
+    },
+    {
+      "en": "I have a game proposal draft, help me review it and turn it into a beautiful pitch deck.",
+      "zh": "我有一份游戏策划案草稿，帮我审查完善，然后生成一份精美的路演PPT。"
+    },
+    {
+      "en": "Analyze this reference game, create a proposal, and make a PPT for it.",
+      "zh": "分析这个参考游戏，生成专业策划案和路演PPT。"
+    }
+  ],
+  "members": [
+    {
+      "id": "game-maker-studio-team-lead",
+      "displayName": { "en": "He Zhuyou", "zh": "何铸游" },
+      "profession": { "en": "Creative Director", "zh": "创意总监" },
+      "avatar": "avatars/lead.png",
+      "role": "lead"
+    },
+    {
+      "id": "game-concept-architect",
+      "displayName": { "en": "Lan Tusen", "zh": "蓝图森" },
+      "profession": { "en": "Concept Architect", "zh": "概念架构师" },
+      "avatar": "avatars/architect.png",
+      "role": "member"
+    },
+    {
+      "id": "game-proposal-writer",
+      "displayName": { "en": "Ce Wuan", "zh": "策悟安" },
+      "profession": { "en": "Proposal Editor", "zh": "策划总编" },
+      "avatar": "avatars/writer.png",
+      "role": "member"
+    },
+    {
+      "id": "ppt-generator",
+      "displayName": { "en": "Hua Dianjing", "zh": "画点晴" },
+      "profession": { "en": "Pitch Deck Designer", "zh": "提案设计师" },
+      "avatar": "avatars/builder.png",
+      "role": "member"
+    }
+  ]
+}
